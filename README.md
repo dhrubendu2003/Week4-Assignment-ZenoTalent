@@ -50,7 +50,7 @@ The project followed a structured pipeline to analyze the text corpus:
 ### 1. Word2Vec Embeddings (t-SNE Visualization)
 This plot shows the 2D projection of Word2Vec embeddings using t-SNE. Words that are semantically similar appear close together, revealing natural groupings such as "deep", "neural", "learning" clustering around AI concepts.
 
-![Word2Vec Embeddings (t-SNE Visualization)]([images/word2vec_tsne.png](https://github.com/dhrubendu2003/Week4-Assignment-ZenoTalent/blob/5f05927503aaab90936f79d6bb47b4c8e59cbc3a/word2vec_tsne.png))
+![alt text]([http://url/to/img.png](https://github.com/dhrubendu2003/Week4-Assignment-ZenoTalent/blob/5f05927503aaab90936f79d6bb47b4c8e59cbc3a/word2vec_tsne.png))
 
 > *Caption: t-SNE visualization of Word2Vec embeddings showing clusters of semantically related words.*
 
@@ -59,6 +59,6 @@ This plot shows the 2D projection of Word2Vec embeddings using t-SNE. Words that
 ### 2. pyLDAvis Topic Visualization
 This interactive intertopic distance map displays the 5 discovered topics. The size of each bubble reflects the topic’s prevalence in the corpus. The right panel shows the top-30 most relevant terms for each topic, with color indicating term saliency within the selected topic.
 
-![pyLDAvis Topic Visualization]([images/pyldavis_topics.png](https://github.com/dhrubendu2003/Week4-Assignment-ZenoTalent/blob/5f05927503aaab90936f79d6bb47b4c8e59cbc3a/pyldavis_topics.png))
+![alt text]([http://url/to/img.png](https://github.com/dhrubendu2003/Week4-Assignment-ZenoTalent/blob/5f05927503aaab90936f79d6bb47b4c8e59cbc3a/pyldavis_topics.png))
 
 > *Caption: pyLDAvis output showing topic distribution, keyword relevance, and intertopic distances.*
